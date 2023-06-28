@@ -10,10 +10,10 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/aaron-gesmer/" target="blank"><img align="center"
