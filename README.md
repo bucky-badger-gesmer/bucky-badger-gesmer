@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" />
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
 <div id="user-content-toc">
@@ -16,7 +16,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,git,github,linux,raspberrypi,vscode,tailwind,apollo,graphql,netlify,vercel,remix,nextjs,postman,docker,py,java,cloudflare,firebase,figma,discord,jest,postgres,express,playwright" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,git,github,linux,raspberrypi,vscode,tailwind,apollo,graphql,netlify,vercel,remix,nextjs,postman,docker,py,java,cloudflare,firebase,figma,discord,jest,postgres,express" />
 <!--     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" /> -->
   </a>
 </p>
