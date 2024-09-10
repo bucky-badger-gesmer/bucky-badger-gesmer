@@ -16,7 +16,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,apollo,apple,aws,azure,babel,bash,bootstrap,cloudflare,codepen,css,cypress,debian,discord,docker,express,figma,firebase,git,github,githubactions,gcp,gradle,graphql,html,java,jest,js,linux,materialui,netlify,nextjs,nodejs,npm,postgres,postman,py,raspberrypi,react,redux,regex,remix,selenium,stackoverflow,supabase,svg,tailwind,ts,ubuntu,vercel,vite,vscode,webpack,windows" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,apollo,apple,aws,azure,babel,bash,bootstrap,cloudflare,codepen,css,cypress,debian,discord,docker,express,figma,firebase,gcp,git,github,githubactions,gitlab,gradle,graphql,html,java,jest,js,jenkins,linux,materialui,md,netlify,nextjs,nodejs,npm,postgres,postman,powershell,py,raspberrypi,react,redux,regex,remix,selenium,stackoverflow,styledcomponents,supabase,svg,tailwind,ts,ubuntu,vercel,vite,vscode,webpack,windows" />
   </a>
 </p>
 
